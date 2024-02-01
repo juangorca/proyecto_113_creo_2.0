@@ -1,0 +1,38 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: #db7d03;
+    font-family: 'Press Start 2P', system-ui;
+}
+
+.header_div{
+    background: #e9fe08;
+    color:#81f307;
+}
+
+.header_div p{
+    font-family: 'Press Start 2p', sans-serif;
+    color: rgb(115, 7, 88);
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Press Start 2p', sans-serif;
+    margin-top: 35px;
+    width: 210;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+.copy_rigth_footer{
+    position: fixed;
+    color: rgb(14, 177, 123);
+    bottom: 0;
+    font-size: 18px;
+    width: 100%;
+    background-color: rgb(238, 244, 244);
+    line-height: 1;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(128, 8, 4);
+
+}
